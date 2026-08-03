@@ -1,8 +1,17 @@
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![CS50](https://img.shields.io/badge/Harvard-CS50P-red?logo=harvard&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 ![License](https://img.shields.io/badge/Code%20Portfolio-Personal-green)
+
 ![Boymomlovesjesus | Python Developer](https://copilot.microsoft.com/th/id/BCO.b9b8b6b3-3e3b-4139-9e02-9c4168557d03.png)
+
+# CS50 Python Portfolio
+
+Welcome to my CS50P portfolio — a collection of projects completed while studying **Harvard’s CS50 Introduction to Programming with Python**.
+
+</div>
 
 
 
@@ -34,6 +43,17 @@ week5/
 week6/
 week7/
 week8/
+## 🧠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black?logo=github)
+![CS50](https://img.shields.io/badge/Course-Harvard%20CS50P-red?logo=harvard&logoColor=white)
+![Copilot](https://img.shields.io/badge/Assistant-Microsoft%20Copilot-00ADEF?logo=microsoft&logoColor=white)
+
+</div>
 
 
 ## Purpose of This Repository
@@ -49,8 +69,12 @@ They are shared publicly for portfolio purposes only.
 
 ## Contact
 If you’d like to connect or discuss any of the projects, feel free to reach out.
-![Made with ❤️ by Boymomlovesjesus](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Boymomlovesjesus-red)
+<div align="center">
 
 ![Boymomlovesjesus | Python Developer Footer](https://copilot.microsoft.com/th/id/BCO.18786f71-31cf-4a27-9075-c5dee8de580f.png)
+
+### Made with ❤️ by Boymomlovesjesus
+
+</div>
 
 
