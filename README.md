@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![CS50](https://img.shields.io/badge/Harvard-CS50P-red?logo=harvard&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+![License](https://img.shields.io/badge/Code%20Portfolio-Personal-green)
+
+
 # CS50 Python Portfolio
 
 This repository contains my personal solutions and projects from **Harvard’s CS50P – Introduction to Programming with Python**.  
@@ -41,3 +47,5 @@ They are shared publicly for portfolio purposes only.
 
 ## Contact
 If you’d like to connect or discuss any of the projects, feel free to reach out.
+
+
