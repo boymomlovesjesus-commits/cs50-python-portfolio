@@ -2,6 +2,7 @@
 ![CS50](https://img.shields.io/badge/Harvard-CS50P-red?logo=harvard&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 ![License](https://img.shields.io/badge/Code%20Portfolio-Personal-green)
+![CS50 Python Banner](https://dummyimage.com/1200x250/1a1a1a/ffffff&text=CS50+Python+Portfolio)
 
 
 # CS50 Python Portfolio
