@@ -49,5 +49,8 @@ They are shared publicly for portfolio purposes only.
 
 ## Contact
 If you’d like to connect or discuss any of the projects, feel free to reach out.
+![Made with ❤️ by Boymomlovesjesus](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Boymomlovesjesus-red)
+
+![Boymomlovesjesus | Python Developer Footer](https://copilot.microsoft.com/th/id/BCO.18786f71-31cf-4a27-9075-c5dee8de580f.png)
 
 
