@@ -54,7 +54,33 @@ week8/
 ![Copilot](https://img.shields.io/badge/Assistant-Microsoft%20Copilot-00ADEF?logo=microsoft&logoColor=white)
 
 </div>
+## 👤 About Me
 
+<div align="center">
+
+### Hi, I'm **Boymomlovesjesus** — a passionate Python learner and CS50P student.
+
+I’m currently studying **Harvard’s CS50 Introduction to Programming with Python**, building projects each week to strengthen my skills and grow as a developer.  
+I love learning, creating, and improving — one project at a time.
+
+💻 **Interests:** Python, GitHub, VS Code, CS50, AI tools  
+🎯 **Goals:** Complete CS50P, deepen my understanding of programming, and build real-world projects  
+❤️ **Fun fact:** My username reflects my faith and my family — two things that inspire everything I do.
+
+</div>
+👤 About Me
+<div align="center">
+
+Hi, I'm Boymomlovesjesus — a passionate Python learner and CS50P student.
+I’m currently studying Harvard’s CS50 Introduction to Programming with Python, building projects each week to strengthen my skills and grow as a developer.
+I love learning, creating, and improving — one project at a time.
+
+💻 Interests: Python, GitHub, VS Code, CS50, AI 
+tools
+🎯 Goals: Complete CS50P, deepen my understanding of programming, and build real-world projects
+❤️ Fun fact: My username reflects my faith and my family — two things that inspire everything I do.
+
+</div>
 
 ## Purpose of This Repository
 This repo is meant to:
