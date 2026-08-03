@@ -156,9 +156,9 @@ I love learning, creating, and improving — one project at a time.
 
 If you'd like to connect, collaborate, or follow my learning journey:
 
-📧 **Email:** (add your email here)  
+📧 **Email:** (boymomlovesjesus@gmail.com)  
 🐙 **GitHub:** https://github.com/boymomlovesjesus-commits  
-🎓 **CS50 Profile:** (optional link)  
+🎓 **LinkedIn:** (www.linkedin.com/in/desiree-o’nan-7a4161168)  
 💬 **Reach out anytime — I love meeting other learners and developers!**
 
 </div>
