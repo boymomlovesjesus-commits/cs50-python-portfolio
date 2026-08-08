@@ -170,8 +170,9 @@ Here are the projects I'm most proud of so far in my CS50P journey:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Faces.py** | Converts text emojis into real emoji characters | *(add link once uploaded)* |
-| **Playback Speed** | Adjusts audio playback speed | *(add link once uploaded)* |
+| **Faces.py** | Converts text emojis into real emoji characters | https://github.com/code50/306759375/blob/594c1ed9b01dca17b4ff9b101f4cde8abaccb5d1/faces.py |
+| **Playback Speed** | Adjusts audio playback speed | submit50 cs50/problems/2022/python/playback
+ |
 | **Meal Time** | Determines meal time based on user input | *(add link once uploaded)* |
 | **Coke Machine** | Simulates a vending machine using loops | *(add link once uploaded)* |
 
