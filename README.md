@@ -76,7 +76,7 @@ I love learning, creating, and improving — one project at a time.
 |-------|--------|
 | Week 0 – Functions & Variables | ✅ Completed |
 | Week 1 – Conditionals | ✅ Completed |
-| Week 2 – Loops | ⏳ In Progress |
+| Week 2 – Loops | ✅ Completed |
 | Week 3 – Exceptions | ⏳ In Progress |
 | Week 4 – Libraries | 🔜 Coming Up |
 | Week 5 – Unit Tests | 🔜 Coming Up |
@@ -105,8 +105,8 @@ I love learning, creating, and improving — one project at a time.
 |------|--------|----------------------|
 | Week 0 | Functions & Variables | ✔️ Done |
 | Week 1 | Conditionals | ✔️ Done |
-| Week 2 | Loops | August 2026 |
-| Week 3 | Exceptions | August 2026 |
+| Week 2 | Loops | ✔️ Done  |
+| Week 3 | Exceptions | September 2026 |
 | Week 4 | Libraries | September 2026 |
 | Week 5 | Unit Tests | September 2026 |
 | Week 6 | File I/O | October 2026 |
@@ -172,7 +172,7 @@ Here are the projects I'm most proud of so far in my CS50P journey:
 |---------|-------------|------|
 | **Faces.py** | Converts text emojis into real emoji characters |https://github.com/boymomlovesjesus-commits/cs50-python-portfolio/blob/main/week0/faces.py |
 | **Playback Speed** | Adjusts audio playback speed | https://github.com/boymomlovesjesus-commits/cs50-python-portfolio/blob/main/week0/faces.py |
-| **Meal Time** | Determines meal time based on user input | *(add link once uploaded)* |
+| **Meal Time** | Determines meal time based on user input |  |
 | **Coke Machine** | Simulates a vending machine using loops | *(add link once uploaded)* |
 
 More pinned projects coming as I complete additional weeks!
