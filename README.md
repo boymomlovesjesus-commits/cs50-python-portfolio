@@ -172,8 +172,8 @@ Here are the projects I'm most proud of so far in my CS50P journey:
 |---------|-------------|------|
 | **Faces.py** | Converts text emojis into real emoji characters |https://github.com/boymomlovesjesus-commits/cs50-python-portfolio/blob/main/week0/faces.py |
 | **Playback Speed** | Adjusts audio playback speed | https://github.com/boymomlovesjesus-commits/cs50-python-portfolio/blob/main/week0/faces.py |
-| **Meal Time** | Determines meal time based on user input |  |
-| **Coke Machine** | Simulates a vending machine using loops | *(add link once uploaded)* |
+| **Meal Time** | Determines meal time based on user input |🔗 ./week1/meal/meal.py |
+| **Coke Machine** | Simulates a vending machine using loops | 🔗 ./week2/coke/coke.py |
 
 More pinned projects coming as I complete additional weeks!
 
